@@ -19,7 +19,7 @@
     "optparse": "1.0.3",
     "redis": "0.6.7",
     "jsdom": "==0.2.0",
-    "xml2js": "0.1.x",
+    "xml2js": "0.6.x",
     "soupselect": "0.2.0",
     "htmlparser": "1.7.x",
     "sprintf": "0.1.1",
@@ -34,7 +34,7 @@
     "nodepie": "0.4.0",
     "mailer": "0.6.7",
     "scribe-node": "0.0.24",
-    "sandbox": "0.8.2"
+    "sandbox": "1.0.0"
   },
 
   "directories":  {
